@@ -208,3 +208,9 @@ mvn exec:java
 3. **逐文件实现** → 从底层模型到上层 CLI，逐步构建
 4. **编译验证** → 修复编译错误，确认 BUILD SUCCESS
 5. **文档编写** → 生成 README
+
+## 演示视频
+
+[下载演示视频](https://github.com/777-echo/demoagent/releases/latest)
+
+> 视频展示了：计算器工具调用、跨轮状态延续（创建任务 → 追问进度）
